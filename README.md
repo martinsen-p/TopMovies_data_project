@@ -15,3 +15,4 @@ What genre shows up the most? Has this changed over time?
 We found that runtime does not have a strong effect on the rank of a movie. However, a higher popularity typically indicates a higher rank/rating. We also found that the most popular genre is currently action, although, this does change over time.
 
 Here is the graph showing the top movie genres over time:
+![Model]()
