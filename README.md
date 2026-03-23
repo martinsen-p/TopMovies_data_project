@@ -17,6 +17,6 @@ We found that runtime does not have a strong effect on the rank of a movie. Howe
 This figure shows the favorite genre over time:
 ![Model](https://github.com/martinsen-p/TopMovies_data_project/blob/main/Top%205%20Genres%20over%20time.png?raw=true)
 
-### Our kaggle dataset:
+### Our Dataset
 
-http://www.kaggle.com/datasets/tiagoadrianunes/imdb-top-5000-movies 
+[Kaggle - IMDb Data](http://www.kaggle.com/datasets/tiagoadrianunes/imdb-top-5000-movies)
